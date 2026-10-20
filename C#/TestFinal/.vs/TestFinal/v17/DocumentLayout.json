@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|d:\\folder elevi\\an scolar 2025-2026\\11b\\c#\\testfinal\\testfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|solutionrelative:testfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|d:\\folder elevi\\an scolar 2025-2026\\11b\\c#\\testfinal\\testfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|solutionrelative:testfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|d:\\folder elevi\\an scolar 2025-2026\\11b\\c#\\testfinal\\testfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|solutionrelative:testfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|d:\\folder elevi\\an scolar 2025-2026\\11b\\c#\\testfinal\\testfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D178A887-4320-482B-B1E7-7B53DDE17254}|TestFinal\\TestFinal.csproj|solutionrelative:testfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "TestFinal\\Form2.cs",
+              "ToolTip": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form2.cs",
+              "RelativeToolTip": "TestFinal\\Form2.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAjwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:12:28.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "TestFinal\\Form2.cs",
+              "ToolTip": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form2.cs [Design]",
+              "RelativeToolTip": "TestFinal\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:12:21.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "TestFinal\\Form1.cs",
+              "ToolTip": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form1.cs",
+              "RelativeToolTip": "TestFinal\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:12:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "TestFinal\\Form1.cs",
+              "ToolTip": "D:\\folder elevi\\An scolar 2025-2026\\11B\\C#\\TestFinal\\TestFinal\\Form1.cs [Design]",
+              "RelativeToolTip": "TestFinal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:12:11.179Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
